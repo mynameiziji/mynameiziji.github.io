@@ -7,6 +7,7 @@
 <h2 id="destnation">Destnation</h2>
 <ul>
 <li>To sum up the paper which i readed about super resolution.</li>
+<li><a href="www.sina.com.cn">[pdf]</a></li>
 </ul>
 <h2 id="plan">Plan</h2>
 <ul>
