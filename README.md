@@ -8,7 +8,7 @@
 <ul>
 <li>To sum up the paper which i readed about super resolution.</li>
 </ul>
-<h2 id="reading-plan">Reading Plan</h2>
+<h2 id="plan">Plan</h2>
 <ul>
 <li>SRCNN</li>
 <li>FSRCNN</li>
