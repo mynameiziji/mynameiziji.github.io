@@ -20,8 +20,16 @@
 <li>Accelerating the Super-Resolution Convolutional Neural Network.ECCV16.<a href="https://arxiv.org/pdf/1608.00367">[pdf]</a></li>
 </ul>
 </li>
-<li>EDSR</li>
-<li>DBPN</li>
+<li>EDSR
+<ul>
+<li>Enhanced Deep Residual Networks for Single Image Super-Resolution.CVPRW17.<a href="https://arxiv.org/pdf/1707.02921">[pdf]</a></li>
+</ul>
+</li>
+<li>DBPN
+<ul>
+<li>Deep Back-Projection Networks For Super-Resolution.CVPR18.<a href="https://arxiv.org/pdf/1803.02735">[pdf]</a></li>
+</ul>
+</li>
 </ul>
 <h2 id="section"></h2>
 
