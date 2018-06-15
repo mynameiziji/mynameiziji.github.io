@@ -17,7 +17,7 @@
 </li>
 <li>FSRCNN
 <ul>
-<li>Accelerating the Super-Resolution Convolutional Neural Network.ECCV16.<a href="https://arxiv.org/abs/1608.00367">[pdf]</a></li>
+<li>Accelerating the Super-Resolution Convolutional Neural Network.ECCV16.<a href="https://arxiv.org/pdf/1608.00367">[pdf]</a></li>
 </ul>
 </li>
 <li>EDSR</li>
