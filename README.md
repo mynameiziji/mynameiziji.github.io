@@ -9,6 +9,7 @@
 <li>To sum up the papers which i readed about super resolution.</li>
 </ul>
 <h2 id="plan">Plan</h2>
+<h3 id="deep-learning-method">Deep Learning Method</h3>
 <ul>
 <li>SRCNN
 <ul>
