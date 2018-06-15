@@ -4,7 +4,7 @@
 ---
 
 <h1 id="sisr-paper-reading">SISR Paper Reading</h1>
-<h2 id="destnation">Destnation</h2>
+<h2 id="destination">Destination</h2>
 <ul>
 <li>To sum up the papers which i readed about super resolution.</li>
 </ul>
