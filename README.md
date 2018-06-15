@@ -7,6 +7,7 @@
 <h2 id="destination">Destination</h2>
 <ul>
 <li>To sum up the papers which i readed about super resolution.</li>
+<li>If you like it,please give me a star.</li>
 </ul>
 <h2 id="plan">Plan</h2>
 <h3 id="deep-learning-method">Deep Learning Method</h3>
