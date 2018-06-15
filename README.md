@@ -10,8 +10,16 @@
 </ul>
 <h2 id="plan">Plan</h2>
 <ul>
-<li>SRCNN</li>
-<li>FSRCNN</li>
+<li>SRCNN
+<ul>
+<li>Image Super-Resolution Using Deep Convolutional Networks.ECCV.2014.<a href="https://arxiv.org/pdf/1501.00092">[pdf]</a></li>
+</ul>
+</li>
+<li>FSRCNN
+<ul>
+<li>Accelerating the Super-Resolution Convolutional Neural Network.ECCV16.<a href="https://arxiv.org/abs/1608.00367">[pdf]</a></li>
+</ul>
+</li>
 <li>EDSR</li>
 <li>DBPN</li>
 </ul>
