@@ -14,7 +14,7 @@
 <ul>
 <li>SRCNN
 <ul>
-<li>Image Super-Resolution Using Deep Convolutional Networks.ECCV.2014.<a href="https://arxiv.org/pdf/1501.00092">[pdf]</a></li>
+<li>Image Super-Resolution Using Deep Convolutional Networks.ECCV.2014.<a href="https://arxiv.org/pdf/1501.00092">[pdf]</a>.<a href="https://github.com/mynameiziji/mynameiziji.github.io/blob/master/SRCNN.md">[notes]</a></li>
 </ul>
 </li>
 <li>FSRCNN
@@ -32,9 +32,5 @@
 <li>Deep Back-Projection Networks For Super-Resolution.CVPR18.<a href="https://arxiv.org/pdf/1803.02735">[pdf]</a></li>
 </ul>
 </li>
-</ul>
-<h2 id="try">Try</h2>
-<ul>
-<li>local file link test.<a href="https://github.com/mynameiziji/mynameiziji.github.io/blob/master/SRCNN.md">[pdf]</a></li>
 </ul>
 
