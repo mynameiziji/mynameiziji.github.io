@@ -33,7 +33,8 @@
 </ul>
 </li>
 </ul>
-<h2 id="section"></h2>
-<pre><code>- local file link test.[[notes]](https://github.com/mynameiziji/mynameiziji.github.io/blob/master/SRCNN.md)
-</code></pre>
+<h2 id="try">Try</h2>
+<ul>
+<li>local file link test.<a href="https://github.com/mynameiziji/mynameiziji.github.io/blob/master/SRCNN.md">[pdf]</a></li>
+</ul>
 
